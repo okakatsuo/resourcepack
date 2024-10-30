@@ -1,0 +1,18 @@
+{
+    "music_disc.notitle": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/notitle",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.bad_apple": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/bad_apple",
+                "stream": true
+            }
+        ]
+    }
+}
