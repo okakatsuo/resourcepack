@@ -1,1 +1,1 @@
-# resourcepack
+# resourcepacks for minigame server
